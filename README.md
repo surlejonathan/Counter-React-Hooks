@@ -1,4 +1,4 @@
-# TO CHECK THE APP JUST FOLLOW THE [link](https://brave-lichterman-19a287.netlify.app/)
+# TO CHECK THE APP JUST FOLLOW THE [LINK](https://brave-lichterman-19a287.netlify.app/)
 
 # Getting Started with Create React App
 
